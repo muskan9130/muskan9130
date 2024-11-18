@@ -1,5 +1,5 @@
 💫 About Me:
-🌸Hi, this is Muskan <br>🔭 I’m currently working on Website designing.<br>🌱 I’m currently learning Cybersecurity<br>
+🌸 Hi, this is Muskan Malik <br>🔭 I’m currently learning Cybersecurity<br>
 
 
 ## 🌐 Socials:
