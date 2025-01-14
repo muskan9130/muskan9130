@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cybersecurity projects<br>🌱 I’m currently learning Cybersecurity<br>
+🔭 Hi Myself Muskan Malik, a cybersecurity Enthusiastic<br>🌱 I’m currently working on Cybersecurity projects<br>
 
 
 ## 🌐 Socials:
