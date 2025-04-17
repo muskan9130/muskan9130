@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm Muskan Malik from Delhi, currently based in Pune. <br><br>- 🔭 I’m a passionate learner in Cybersecurity. <br>- 📚 I am pursuing a Bachelor's degree in Computer Science and Engineering with a specialization in Cybersecurity. <br>- ⚡ In my free time, I work on projects inspired by real-life scenarios.</p>
+<p align="left">HI!! I'm Muskan Malik from Delhi, currently based in Pune. <br><br>- 🔭 I’m a passionate learner in Cybersecurity. <br>- 📚 I am pursuing a Bachelor's degree in Computer Science and Engineering with a specialization in Cybersecurity. <br>- ⚡ In my free time, I work on projects inspired by real-life scenarios.</p>
 
 ###
 
