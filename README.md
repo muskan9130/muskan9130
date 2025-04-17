@@ -1,3 +1,6 @@
+# Creating the complete README.md content based on the provided user info and extracted resume content.
+
+readme_content = """
 <div align="center">
   <a href="https://www.linkedin.com/in/muskan-malik/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
@@ -23,6 +26,26 @@
 - 💻 Passionate about solving real-world cybersecurity challenges
 - 🧠 Constantly learning and exploring new technologies
 - ⚡ In my free time, I enjoy working on hands-on security projects & tinkering with systems
+
+---
+
+### 🧠 Skills & Proficiencies
+
+#### 💻 Programming Languages  
+`Python` • `C` • `JavaScript` • `CSS` • `Node.js` • `Next.js`
+
+#### 🧰 Development Tools & Platforms  
+`Matlab` • `Wireshark` • `GitHub` • `VS Code` • `MySQL`
+
+#### 🖥 Operating Systems & Technologies  
+`Kali Linux` • `macOS` • `Windows` • `Ubuntu`
+
+#### 🎨 Additional Tools  
+`Canva` • `MS Word` • `MS Excel` • `MS PowerPoint`
+
+#### 🧩 Soft Skills  
+`Problem-Solving` • `Analytical Thinking` • `Adaptability` • `Teamwork`  
+`Attention to Detail` • `Creativity`
 
 ---
 
@@ -52,11 +75,11 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muskan9130&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muskan9130&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muskan9130&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muskan9130&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="170" alt="Top Languages" />
+</div>
 
 ---
 
@@ -66,7 +89,10 @@
   <a href="https://www.linkedin.com/in/muskan-malik/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:muskan.malik9130@gmail.com">
     <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
 </p>
+"""
+
+
