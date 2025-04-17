@@ -59,12 +59,3 @@
     <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
 </p>
-"""
-
-# Save to a markdown file
-readme_path = "/mnt/data/README_MuskanMalik.md"
-with open(readme_path, "w", encoding="utf-8") as file:
-    file.write(readme_content)
-
-readme_path
-
