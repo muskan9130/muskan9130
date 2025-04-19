@@ -19,24 +19,31 @@
 - ⚡ In my free time, I enjoy working on hands-on security projects & tinkering with systems
 
 ---
+## 🔐 Core Skills
 
-### 🧠 Skills & Proficiencies
+### 💻 Programming & Development
+- **Python**, **C**, **JavaScript**
+- **NodeJS**, **NextJS**
+- **MySQL**, **Flask**
 
-#### 💻 Programming Languages  
-`Python` • `C` • `JavaScript` • `CSS` • `Node.js` • `Next.js`
+### 🛡 Cybersecurity & Forensics
+- **Digital Forensics (Autopsy, FTK Imager)**
+- **Malware Analysis**
+- **Network Scanning (Nmap, Wireshark)**
+- **Social Engineering Toolkit (SET)**
+- **Web Vulnerability Testing (SQL Injection, XSS)**
+- **Process & USB Monitoring**
 
-#### 🧰 Development Tools & Platforms  
-`Matlab` • `Wireshark` • `GitHub` • `VS Code` • `MySQL`
+### 🤖 Machine Learning
+- **Neural Networks (TensorFlow, PyTorch)**
+- **Classification & Regression Models**
+- **Bayesian Methods**
+- **Optimization Techniques**
 
-#### 🖥 Operating Systems & Technologies  
-`Kali Linux` • `macOS` • `Windows` • `Ubuntu`
-
-#### 🎨 Additional Tools  
-`Canva` • `MS Word` • `MS Excel` • `MS PowerPoint`
-
-#### 🧩 Soft Skills  
-`Problem-Solving` • `Analytical Thinking` • `Adaptability` • `Teamwork`  
-`Attention to Detail` • `Creativity`
+### 🧰 Tools & Platforms
+- **Linux (Kali)**, **Ubuntu**
+- **Windows**, **MacOS**
+- **GitHub**, **VS Code**, **Wireshark**
 
 ---
 
