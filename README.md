@@ -19,12 +19,12 @@
 - ⚡ In my free time, I enjoy working on hands-on security projects & tinkering with systems
 
 ---
-## 🔐 Core Skills
+## 🔐 Skills & Expertise
 
 ### 💻 Programming & Development
-- **Python**, **C**, **JavaScript**
-- **NodeJS**, **NextJS**
-- **MySQL**, **Flask**
+- **Python**, **C**, **JavaScript**, **CSS**
+- **NodeJS**, **NextJS**, **Flask**
+- **MySQL**, **Matlab**
 
 ### 🛡 Cybersecurity & Forensics
 - **Digital Forensics (Autopsy, FTK Imager)**
@@ -40,9 +40,13 @@
 - **Optimization Techniques**
 
 ### 🧰 Tools & Platforms
-- **Linux (Kali)**, **Ubuntu**
-- **Windows**, **MacOS**
-- **GitHub**, **VS Code**, **Wireshark**
+- **Linux (Kali)**, **Ubuntu**, **Windows**, **MacOS**
+- **GitHub**, **VS Code**, **Wireshark**, **Jupyter**, **Anaconda**
+- **MS Word**, **MS Excel**, **MS PowerPoint**, **Canva**
+
+### 🧩 Soft Skills
+- **Problem-Solving**, **Analytical Thinking**, **Adaptability**
+- **Teamwork**, **Attention to Detail**, **Creativity**
 
   
 
