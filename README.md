@@ -32,7 +32,6 @@
 - **Network Scanning (Nmap, Wireshark)**
 - **Social Engineering Toolkit (SET)**
 - **Web Vulnerability Testing (SQL Injection, XSS)**
-- **Process & USB Monitoring**
 
 ### 🤖 Machine Learning
 - **Neural Networks (TensorFlow, PyTorch)**
@@ -44,6 +43,8 @@
 - **Linux (Kali)**, **Ubuntu**
 - **Windows**, **MacOS**
 - **GitHub**, **VS Code**, **Wireshark**
+
+  
 
 ---
 
