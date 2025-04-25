@@ -1,5 +1,7 @@
 
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=muskan9130.muskan9130&"  />
+</div>
 ---
 
 <h1 align="center">Hey there! 👋 I'm Muskan Malik</h1>
