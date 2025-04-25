@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=muskan9130.muskan9130&" />
-</div>
+
 
 ---
 
@@ -61,7 +59,7 @@
 
 ---
 
-### 🌐 Let's Connect!
+### Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muskan-malik/" target="_blank">
